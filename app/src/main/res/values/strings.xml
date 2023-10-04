@@ -36,19 +36,14 @@
     <string name="IMDBLink">Watch in IMDB:</string>
     <string name="bladeRunner">Blade Runner</string>
 
+    <string name="selectGender">Select the gender</string>
+    <string name="selectFormat">Select the format</string>
+
     <string name="catchPhoto">Take photo</string>
     <string name="selectImage">Selecct Image</string>
     <string name="inputFilmTitle">Film title</string>
     <string name="inputDirectorName">Director name</string>
     <string name="inputYear">Year</string>
     <string name="inputLinkIMDB">Link to IMDB</string>
-    <string name="selectAction">action</string>
-    <string name="selectDrama">drama</string>
-    <string name="selectComedy">Comedy</string>
-    <string name="selectTerror">Terror</string>
-    <string name="selectScifi">Sci-Fi</string>
-    <string name="selectDVD">DVD</string>
-    <string name="selectBLU">Blu-ray</string>
-    <string name="selectDigital">Digital</string>
     <string name="inputComment">Comment</string>
 </resources>
