@@ -36,5 +36,21 @@
     <string name="yearPublicationBladeRunner">1985</string>
     <string name="filmGenderBladeRunner">Ciencia Ficción</string>
     <string name="filmFormatBladeRunner">Formato Extendido</string>
+
+    <string name="catchPhoto">Capturar Fotografía</string>
+    <string name="selectImage">Selecciona Imagen</string>
+    <string name="inputFilmTitle">Título de la película</string>
+    <string name="inputDirectorName">Nombre del director</string>
+    <string name="inputYear">Año</string>
+    <string name="inputLinkIMDB">Enlace a IMDB</string>
+    <string name="selectAction">Acción</string>
+    <string name="selectDrama">Drama</string>
+    <string name="selectComedy">Comedia</string>
+    <string name="selectTerror">Terror</string>
+    <string name="selectScifi">Sci-Fi</string>
+    <string name="selectDVD">DVD</string>
+    <string name="selectBLU">Blu-ray</string>
+    <string name="selectDigital">Digital</string>
+    <string name="inputComment">Comentarios</string>
 </resources>
 
