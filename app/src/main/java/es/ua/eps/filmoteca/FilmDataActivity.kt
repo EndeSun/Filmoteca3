@@ -38,7 +38,7 @@ class FilmDataActivity : AppCompatActivity() {
         }
 
 
-        //Cuando se le enviá al film edit
+        //Cuando se le envia al film edit
         binding.filmEdit.setOnClickListener {
             val filmEditIntent = Intent(this@FilmDataActivity, FilmEditActivity::class.java)
             if(Build.VERSION.SDK_INT >= 30) {
